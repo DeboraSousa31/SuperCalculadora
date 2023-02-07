@@ -1,0 +1,57 @@
+h1 {
+  color: chartreuse;
+  text-align: center;
+  background-color: black;
+}
+
+header {
+  padding: 10px;
+  background-color: black;
+  padding-right: 10px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+button {
+  background-color: chartreuse;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+table {
+  background-color: #3e3e3e;
+  font-size: 15px;
+  padding: 10px;
+  width: 100%;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-collapse: collapse;
+}
+
+table,
+td,
+th {
+  border: 1px solid black;
+}
+
+tr {
+  color: #9764f9;
+}
+
+td {
+  height: 20px;
+  padding: 10px;
+}
+
+.inputs {
+  color: chartreuse;
+  text-align: center;
+}
+
+.resultado {
+  font-size: 22px;
+  color: #fff;
+  border-top: none;
+}
